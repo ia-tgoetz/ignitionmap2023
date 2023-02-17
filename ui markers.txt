@@ -1,0 +1,3794 @@
+[
+  {
+    "name": "EAM",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643086643
+        }
+      ],
+      "id": 1
+    },
+    "enabled": true,
+    "lat": 40.513797760009766,
+    "lng": -116.71875,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Gateway Network",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643115037
+        }
+      ],
+      "id": 2
+    },
+    "enabled": true,
+    "lat": 43.58039093017578,
+    "lng": -112.6989974975586,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Remote Services",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643131707
+        }
+      ],
+      "id": 3
+    },
+    "enabled": true,
+    "lat": 42.19596862792969,
+    "lng": -105.86648559570312,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Redundancy",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643148000
+        }
+      ],
+      "id": 4
+    },
+    "enabled": true,
+    "lat": 40.17887496948242,
+    "lng": -110.01872253417969,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Audit Acres",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643165393
+        }
+      ],
+      "id": 5
+    },
+    "enabled": true,
+    "lat": 38.94232177734375,
+    "lng": -102.41728210449219,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Installer",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643196097
+        }
+      ],
+      "id": 6
+    },
+    "enabled": true,
+    "lat": 35.209720611572266,
+    "lng": -115.85167694091797,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Docker",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643207240
+        }
+      ],
+      "id": 7
+    },
+    "enabled": true,
+    "lat": 33.4039306640625,
+    "lng": -115.51115417480469,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "WebDev",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643221173
+        }
+      ],
+      "id": 8
+    },
+    "enabled": true,
+    "lat": 34.759666442871094,
+    "lng": -109.29305267333984,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Workstation",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643235840
+        }
+      ],
+      "id": 9
+    },
+    "enabled": true,
+    "lat": 31.30671501159668,
+    "lng": -115.10436248779297,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Android",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643248160
+        }
+      ],
+      "id": 10
+    },
+    "enabled": true,
+    "lat": 29.065773010253906,
+    "lng": -116.18119812011719,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "iOS",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643259900
+        }
+      ],
+      "id": 11
+    },
+    "enabled": true,
+    "lat": 28.459033966064453,
+    "lng": -119.07018280029297,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Cape Launcher",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643275417
+        }
+      ],
+      "id": 12
+    },
+    "enabled": true,
+    "lat": 30.855079650878906,
+    "lng": -121.02619171142578,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Tree of Editions",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643300823
+        }
+      ],
+      "id": 13
+    },
+    "enabled": true,
+    "lat": 22.6241512298584,
+    "lng": -115.3021011352539,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Cloud",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643312150
+        }
+      ],
+      "id": 14
+    },
+    "enabled": true,
+    "lat": 24.926294326782227,
+    "lng": -117.43313598632812,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Edge",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643325543
+        }
+      ],
+      "id": 15
+    },
+    "enabled": true,
+    "lat": 25.61180877685547,
+    "lng": -115.57671356201172,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Maker",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643333973
+        }
+      ],
+      "id": 16
+    },
+    "enabled": true,
+    "lat": 25.40358543395996,
+    "lng": -113.69831085205078,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "CI/CD",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643355317
+        }
+      ],
+      "id": 17
+    },
+    "enabled": true,
+    "lat": 24.627044677734375,
+    "lng": -107.66755676269531,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "PYTEST",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643368930
+        }
+      ],
+      "id": 18
+    },
+    "enabled": true,
+    "lat": 24.00632667541504,
+    "lng": -104.87740325927734,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Selenium",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643391337
+        }
+      ],
+      "id": 19
+    },
+    "enabled": true,
+    "lat": 24.786733627319336,
+    "lng": -102.28500366210938,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Test Rail",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643573300
+        }
+      ],
+      "id": 20
+    },
+    "enabled": true,
+    "lat": 21.514406204223633,
+    "lng": -106.61295318603516,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "QF-Test",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643588180
+        }
+      ],
+      "id": 21
+    },
+    "enabled": true,
+    "lat": 21.55528450012207,
+    "lng": -102.98799133300781,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "SFC",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643598377
+        }
+      ],
+      "id": 22
+    },
+    "enabled": true,
+    "lat": 20.509353637695312,
+    "lng": -95.29737091064453,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Reporting Ranch",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643613060
+        }
+      ],
+      "id": 23
+    },
+    "enabled": true,
+    "lat": 19.849393844604492,
+    "lng": -91.76028442382812,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Vision Village",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643809340
+        }
+      ],
+      "id": 24
+    },
+    "enabled": true,
+    "lat": 18.937463760375977,
+    "lng": -85.7390365600586,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Client Isle",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643826810
+        }
+      ],
+      "id": 25
+    },
+    "enabled": true,
+    "lat": 17.56024742126465,
+    "lng": -81.71820831298828,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Perspective Peninsula",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643843727
+        }
+      ],
+      "id": 26
+    },
+    "enabled": true,
+    "lat": 22.32975196838379,
+    "lng": -75.19247436523438,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Find Replace",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643856367
+        }
+      ],
+      "id": 27
+    },
+    "enabled": true,
+    "lat": 25.24469566345215,
+    "lng": -78.97152709960938,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Tag Browse Tree",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643869293
+        }
+      ],
+      "id": 28
+    },
+    "enabled": true,
+    "lat": 26.7456111907959,
+    "lng": -78.5980453491211,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Workspaces",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643886177
+        }
+      ],
+      "id": 29
+    },
+    "enabled": true,
+    "lat": 26.627819061279297,
+    "lng": -81.47604370117188,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Script Console",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643905100
+        }
+      ],
+      "id": 30
+    },
+    "enabled": true,
+    "lat": 25.997549057006836,
+    "lng": -82.50861358642578,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Project Browser",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643917607
+        }
+      ],
+      "id": 31
+    },
+    "enabled": true,
+    "lat": 27.059125900268555,
+    "lng": -84.35433197021484,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "I18N",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643938470
+        }
+      ],
+      "id": 32
+    },
+    "enabled": true,
+    "lat": 24.507143020629883,
+    "lng": -89.5182876586914,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "RPC Pass",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643950977
+        }
+      ],
+      "id": 33
+    },
+    "enabled": true,
+    "lat": 29.056169509887695,
+    "lng": -88.33174896240234,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Projects",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643962340
+        }
+      ],
+      "id": 34
+    },
+    "enabled": true,
+    "lat": 30.86450958251953,
+    "lng": -91.84705352783203,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "SDK",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643971773
+        }
+      ],
+      "id": 35
+    },
+    "enabled": true,
+    "lat": 32.324275970458984,
+    "lng": -93.4508285522461,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Config DB",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643983600
+        }
+      ],
+      "id": 36
+    },
+    "enabled": true,
+    "lat": 29.363027572631836,
+    "lng": -99.84519958496094,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "GW Web UI",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676643997867
+        }
+      ],
+      "id": 37
+    },
+    "enabled": true,
+    "lat": 31.95216178894043,
+    "lng": -103.33796691894531,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "HTTP Pass",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644008017
+        }
+      ],
+      "id": 38
+    },
+    "enabled": true,
+    "lat": 32.06395721435547,
+    "lng": -107.09550476074219,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "License \u0026 Activation",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644038677
+        }
+      ],
+      "id": 39
+    },
+    "enabled": true,
+    "lat": 35.47856521606445,
+    "lng": -95.69227600097656,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Fort Security",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644049887
+        }
+      ],
+      "id": 40
+    },
+    "enabled": true,
+    "lat": 34.83184051513672,
+    "lng": -91.27609252929688,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Logging",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644062013
+        }
+      ],
+      "id": 41
+    },
+    "enabled": true,
+    "lat": 30.656816482543945,
+    "lng": -78.8169937133789,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Maps",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644072620
+        }
+      ],
+      "id": 42
+    },
+    "enabled": true,
+    "lat": 26.647459030151367,
+    "lng": -73.66423797607422,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Tables",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644080877
+        }
+      ],
+      "id": 43
+    },
+    "enabled": true,
+    "lat": 26.204734802246094,
+    "lng": -72.04948425292969,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Symbols",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644093100
+        }
+      ],
+      "id": 44
+    },
+    "enabled": true,
+    "lat": 29.850173950195312,
+    "lng": -71.44512939453125,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Charts",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644101300
+        }
+      ],
+      "id": 45
+    },
+    "enabled": true,
+    "lat": 30.391830444335938,
+    "lng": -72.38936614990234,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Secs/Gem",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644114830
+        }
+      ],
+      "id": 46
+    },
+    "enabled": true,
+    "lat": 33.43144226074219,
+    "lng": -78.10252380371094,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "OPC Classic",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644125713
+        }
+      ],
+      "id": 47
+    },
+    "enabled": true,
+    "lat": 35.7019157409668,
+    "lng": -76.39981842041016,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "IEC61850",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644141357
+        }
+      ],
+      "id": 48
+    },
+    "enabled": true,
+    "lat": 36.86204147338867,
+    "lng": -77.35577392578125,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Siemens",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644159783
+        }
+      ],
+      "id": 49
+    },
+    "enabled": true,
+    "lat": 37.46613693237305,
+    "lng": -77.795166015625,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Omron",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644168460
+        }
+      ],
+      "id": 50
+    },
+    "enabled": true,
+    "lat": 38.022132873535156,
+    "lng": -78.00387573242188,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "OPC-UA",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644181073
+        }
+      ],
+      "id": 51
+    },
+    "enabled": true,
+    "lat": 37.814125061035156,
+    "lng": -82.32087707519531,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "SS PLC",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644199940
+        }
+      ],
+      "id": 52
+    },
+    "enabled": true,
+    "lat": 37.63163375854492,
+    "lng": -74.34539794921875,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "DNP3",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644212687
+        }
+      ],
+      "id": 53
+    },
+    "enabled": true,
+    "lat": 38.967952728271484,
+    "lng": -77.80611419677734,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "BACNET",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644224763
+        }
+      ],
+      "id": 54
+    },
+    "enabled": true,
+    "lat": 39.59722137451172,
+    "lng": -77.57543182373047,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Allen Bradley",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644237740
+        }
+      ],
+      "id": 55
+    },
+    "enabled": true,
+    "lat": 40.329795837402344,
+    "lng": -77.24586486816406,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "SQL Bridge",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644251323
+        }
+      ],
+      "id": 56
+    },
+    "enabled": true,
+    "lat": 43.73935317993164,
+    "lng": -80.27774047851562,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Tag Historican",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644265213
+        }
+      ],
+      "id": 57
+    },
+    "enabled": true,
+    "lat": 42.171546936035156,
+    "lng": -85.52938079833984,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Store Forward",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644277127
+        }
+      ],
+      "id": 58
+    },
+    "enabled": true,
+    "lat": 44.308128356933594,
+    "lng": -86.7716064453125,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Port JDBC",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644293237
+        }
+      ],
+      "id": 59
+    },
+    "enabled": true,
+    "lat": 46.2254524230957,
+    "lng": -85.01405334472656,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "UDT Grove",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644309947
+        }
+      ],
+      "id": 60
+    },
+    "enabled": true,
+    "lat": 40.34654235839844,
+    "lng": -92.24308776855469,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Tag Wood",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644324173
+        }
+      ],
+      "id": 61
+    },
+    "enabled": true,
+    "lat": 40.296287536621094,
+    "lng": -94.63777923583984,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Status",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644337873
+        }
+      ],
+      "id": 62
+    },
+    "enabled": true,
+    "lat": 45.429298400878906,
+    "lng": -94.98924255371094,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Journal",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644351500
+        }
+      ],
+      "id": 63
+    },
+    "enabled": true,
+    "lat": 48.574790954589844,
+    "lng": -92.61640167236328,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Notification",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644363600
+        }
+      ],
+      "id": 64
+    },
+    "enabled": true,
+    "lat": 48.07807922363281,
+    "lng": -97.82316589355469,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "The River Python",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644382140
+        }
+      ],
+      "id": 65
+    },
+    "enabled": true,
+    "lat": 41.31082534790039,
+    "lng": -97.86687469482422,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Lake Scripting",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644394200
+        }
+      ],
+      "id": 66
+    },
+    "enabled": true,
+    "lat": 34.39784622192383,
+    "lng": -101.33929443359375,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Lake Build",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644409817
+        }
+      ],
+      "id": 67
+    },
+    "enabled": true,
+    "lat": 28.38173484802246,
+    "lng": -106.2831039428711,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Lake Expression",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644421077
+        }
+      ],
+      "id": 68
+    },
+    "enabled": true,
+    "lat": 29.171348571777344,
+    "lng": -95.01276397705078,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "The River Gradle",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644444400
+        }
+      ],
+      "id": 69
+    },
+    "enabled": true,
+    "lat": 29.935895919799805,
+    "lng": -111.82006072998047,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Shipping Bay",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644456657
+        }
+      ],
+      "id": 70
+    },
+    "enabled": true,
+    "lat": 31.784217834472656,
+    "lng": -117.88449096679688,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Deployment Depths",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644471637
+        }
+      ],
+      "id": 71
+    },
+    "enabled": true,
+    "lat": 33.28461837768555,
+    "lng": -123.61912536621094,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Alarm Isles",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644490757
+        }
+      ],
+      "id": 72
+    },
+    "enabled": true,
+    "lat": 46.95026397705078,
+    "lng": -94.90052795410156,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "SQL Shallows",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644505923
+        }
+      ],
+      "id": 73
+    },
+    "enabled": true,
+    "lat": 48.603858947753906,
+    "lng": -83.95918273925781,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "History Headlands",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644530477
+        }
+      ],
+      "id": 74
+    },
+    "enabled": true,
+    "lat": 46.49839401245117,
+    "lng": -77.70248413085938,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Protocol Bay",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644545427
+        }
+      ],
+      "id": 75
+    },
+    "enabled": true,
+    "lat": 39.04478454589844,
+    "lng": -75.3450698852539,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Component Archepelago",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644570693
+        }
+      ],
+      "id": 76
+    },
+    "enabled": true,
+    "lat": 27.722434997558594,
+    "lng": -75.0822525024414,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Designer Dale",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644585887
+        }
+      ],
+      "id": 77
+    },
+    "enabled": true,
+    "lat": 28.168874740600586,
+    "lng": -82.35484313964844,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Application Building Zone",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644604957
+        }
+      ],
+      "id": 78
+    },
+    "enabled": true,
+    "lat": 23.281719207763672,
+    "lng": -85.18929290771484,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  },
+  {
+    "name": "Testing Towers",
+    "properties": {
+      "attributes": [],
+      "elementPointInfo": [
+        {
+          "created": 1676644626127
+        }
+      ],
+      "id": 79
+    },
+    "enabled": true,
+    "lat": 22.776182174682617,
+    "lng": -104.74594116210938,
+    "opacity": 1,
+    "icon": {
+      "path": "material/location_on",
+      "color": "#FF0000",
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "popup": {
+      "enabled": false,
+      "content": {
+        "text": "",
+        "view": {
+          "path": "",
+          "params": ""
+        }
+      },
+      "width": {
+        "max": 300,
+        "min": 50
+      },
+      "height": {
+        "max": null
+      },
+      "pan": {
+        "auto": true
+      },
+      "closeButton": true,
+      "autoClose": true,
+      "closeOnEscapeKey": true,
+      "closeOnClick": null
+    }
+  }
+]
