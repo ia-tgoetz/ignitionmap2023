@@ -30,10 +30,10 @@ body { background: #f4f4f4;}
 <script type="text/javascript">
 var map;
 var mapBounds = new google.maps.LatLngBounds(
-    new google.maps.LatLng(-0.000808, -0.001078),
-    new google.maps.LatLng(0.000808, 0.001078));
-var mapMinZoom = 17;
-var mapMaxZoom = 22;
+    new google.maps.LatLng(16.209250, -125.062630),
+    new google.maps.LatLng(50.044987, -69.941359));
+var mapMinZoom = 2;
+var mapMaxZoom = 7;
 var maptiler = new google.maps.ImageMapType({
     getTileUrl: function(coord, zoom) { 
         var proj = map.getProjection();
@@ -64,8 +64,8 @@ function init() {
         streetViewControl: false,
         mapTypeId: 'maptiler',
         backgroundColor: "rgb(210,232,255)",
-        center: new google.maps.LatLng(-0.000000, 0.000000),
-        zoom: 17,
+        center: new google.maps.LatLng(33.127118, -97.501995),
+        zoom: 2,
         mapTypeControlOptions: {
             mapTypeIds: [
                 'maptiler',

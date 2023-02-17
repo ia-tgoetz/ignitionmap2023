@@ -9,7 +9,7 @@
 html, body { margin:0; padding: 0; height: 100%; width: 100%; }
 body { width:100%; height:100%; background: #ffffff; }
 #map { position: absolute; height: 100%; width: 100%; }
-#map { background-color: #FFFFFF; }
+#map { background-color: #D2E8FF; }
 #slider { position: absolute; top: 10px; right: 10px; }
 </style>
 <link rel="stylesheet" href="https://cdn.maptiler.com/ol/v6.12.0/ol.css" type="text/css">
@@ -20,7 +20,7 @@ body { width:100%; height:100%; background: #ffffff; }
 <div id="map"></div>
 <input id="slider" type="range" min="0" max="1" step="0.1" value="1" oninput="layer.setOpacity(parseFloat(this.value))">
 <script type="text/javascript">
-var mapExtent = ol.proj.transformExtent([-180.000000, -85.051129, 179.979134, 85.051129], 'EPSG:4326', 'EPSG:3857');
+var mapExtent = ol.proj.transformExtent([-180.000000, -75.195383, 179.968643, 75.199940], 'EPSG:4326', 'EPSG:3857');
 var mapMinZoom = 0;
 var mapMaxZoom = 4;
 var layer = new ol.layer.Tile({
@@ -44,7 +44,7 @@ var map = new ol.Map({
     layer
   ],
   view: new ol.View({
-    center: ol.proj.fromLonLat([-0.010433, -0.000000]),
+    center: ol.proj.fromLonLat([-0.015678, 0.002278]),
     zoom: 1
   })
 });
