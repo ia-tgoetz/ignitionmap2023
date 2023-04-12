@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>tiles2</title>
+<title>TileServer2</title>
 <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 <style type="text/css">
 html { overflow: hidden; }
@@ -30,10 +30,10 @@ body { background: #f4f4f4;}
 <script type="text/javascript">
 var map;
 var mapBounds = new google.maps.LatLngBounds(
-    new google.maps.LatLng(-75.195383, -180.000000),
-    new google.maps.LatLng(75.199940, 179.968643));
-var mapMinZoom = 0;
-var mapMaxZoom = 4;
+    new google.maps.LatLng(16.246381, -125.000000),
+    new google.maps.LatLng(50.000000, -70.002627));
+var mapMinZoom = 2;
+var mapMaxZoom = 7;
 var maptiler = new google.maps.ImageMapType({
     getTileUrl: function(coord, zoom) { 
         var proj = map.getProjection();
@@ -64,8 +64,8 @@ function init() {
         streetViewControl: false,
         mapTypeId: 'maptiler',
         backgroundColor: "rgb(210,232,255)",
-        center: new google.maps.LatLng(0.002278, -0.015678),
-        zoom: 0,
+        center: new google.maps.LatLng(33.123191, -97.501314),
+        zoom: 2,
         mapTypeControlOptions: {
             mapTypeIds: [
                 'maptiler',

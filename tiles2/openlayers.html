@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>tiles2</title>
+<title>TileServer2</title>
 <meta http-equiv="imagetoolbar" content="no"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -20,9 +20,9 @@ body { width:100%; height:100%; background: #ffffff; }
 <div id="map"></div>
 <input id="slider" type="range" min="0" max="1" step="0.1" value="1" oninput="layer.setOpacity(parseFloat(this.value))">
 <script type="text/javascript">
-var mapExtent = ol.proj.transformExtent([-180.000000, -75.195383, 179.968643, 75.199940], 'EPSG:4326', 'EPSG:3857');
-var mapMinZoom = 0;
-var mapMaxZoom = 4;
+var mapExtent = ol.proj.transformExtent([-125.000000, 16.246381, -70.002627, 50.000000], 'EPSG:4326', 'EPSG:3857');
+var mapMinZoom = 2;
+var mapMaxZoom = 7;
 var layer = new ol.layer.Tile({
   extent: mapExtent,
   source: new ol.source.XYZ({
@@ -44,8 +44,8 @@ var map = new ol.Map({
     layer
   ],
   view: new ol.View({
-    center: ol.proj.fromLonLat([-0.015678, 0.002278]),
-    zoom: 1
+    center: ol.proj.fromLonLat([-97.501314, 33.123191]),
+    zoom: 3
   })
 });
 </script>

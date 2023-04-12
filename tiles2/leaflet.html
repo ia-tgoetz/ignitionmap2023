@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>tiles2</title>
+    <title>TileServer2</title>
     <meta http-equiv="imagetoolbar" content="no">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -19,9 +19,9 @@
   <div id="map"></div>
   <input id="slider" type="range" min="0" max="1" step="0.1" value="1" oninput="layer.setOpacity(this.value)">
   <script type="text/javascript">
-    var mapExtent = [-179.99999992, -75.19538340, 179.96864298, 75.19994025];
-    var mapMinZoom = 0;
-    var mapMaxZoom = 4;
+    var mapExtent = [-125.00000000, 16.24638114, -70.00262709, 50.00000000];
+    var mapMinZoom = 2;
+    var mapMaxZoom = 7;
     var bounds = new L.LatLngBounds(
       new L.LatLng(mapExtent[1], mapExtent[0]),
       new L.LatLng(mapExtent[3], mapExtent[2]));
@@ -35,7 +35,7 @@
       tms: false
     };
     layer = L.tileLayer('{z}/{x}/{y}.png', options).addTo(map);
-    map.setZoom(1);
+    map.setZoom(3);
   </script>
 </body>
 </html>
