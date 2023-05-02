@@ -1,0 +1,14 @@
+{
+  "name": "tilesR3",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>, non-commercial use only",
+  "type": "baselayer",
+  "color": "#D2E8FF",
+  "format": "png",
+  "minzoom": "2",
+  "maxzoom": "7",
+  "scale": "1.000000",
+  "bounds": [-125.00064474, 16.49715326, -69.99752453, 50.00013763],
+  "profile": "mercator"
+}
